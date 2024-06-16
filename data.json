@@ -1,0 +1,1178 @@
+[
+    {
+        "id": 1,
+        "name": "Iron Man",
+        "description": "Tony Stark, a billionaire genius, builds a powered suit of armor and becomes the armored superhero Iron Man. Using his technological expertise and wit, Iron Man fights against evil to protect the world.",
+        "powers": [
+            "Genius intellect",
+            "Powered suit of armor",
+            "Flight",
+            "Energy blasts"
+        ],
+        "appearances": [
+            {
+                "movie": "Iron Man",
+                "year": 2008
+            },
+            {
+                "movie": "Avengers: Endgame",
+                "year": 2019
+            }
+        ],
+        "quotes": [
+            "I am Iron Man.",
+            "Sometimes you gotta run before you can walk.",
+            "Genius, billionaire, playboy, philanthropist."
+        ],
+        "allies": [
+            "Pepper Potts",
+            "War Machine",
+            "Spider-Man"
+        ],
+        "enemies": [
+            "Mandarin",
+            "Obadiah Stane",
+            "Thanos"
+        ],
+        "affiliation": "Avengers",
+        "firstAppearance": "Iron Man (2008)",
+        "creator": "Stan Lee, Larry Lieber, Don Heck, Jack Kirby",
+        "aka": [
+            "Tony Stark",
+            "Shellhead"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Captain America",
+        "description": "Steve Rogers, a frail young man, volunteers for a top-secret experiment and becomes Captain America, a super soldier dedicated to upholding justice and defending the ideals of freedom. With his shield and unwavering courage, Captain America fights for what is right.",
+        "powers": [
+            "Peak human strength",
+            "Enhanced agility",
+            "Master tactician",
+            "Indomitable will"
+        ],
+        "appearances": [
+            {
+                "movie": "Captain America: The First Avenger",
+                "year": 2011
+            },
+            {
+                "movie": "Avengers: Endgame",
+                "year": 2019
+            }
+        ],
+        "quotes": [
+            "I can do this all day.",
+            "I'm just a kid from Brooklyn.",
+            "I'm with you 'til the end of the line."
+        ],
+        "allies": [
+            "Bucky Barnes",
+            "Falcon",
+            "Black Widow"
+        ],
+        "enemies": [
+            "Red Skull",
+            "Hydra",
+            "Thanos"
+        ],
+        "affiliation": "Avengers",
+        "firstAppearance": "Captain America: The First Avenger (2011)",
+        "creator": "Joe Simon, Jack Kirby",
+        "aka": [
+            "Cap",
+            "The First Avenger"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Thor",
+        "description": "Thor Odinson, the god of thunder, wields the enchanted hammer Mjolnir and possesses incredible strength and control over lightning. As the prince of Asgard, Thor learns humility and becomes a mighty hero, defending the Nine Realms and battling powerful adversaries.",
+        "powers": [
+            "Superhuman strength",
+            "Control over lightning",
+            "Longevity",
+            "Weather manipulation"
+        ],
+        "appearances": [
+            {
+                "movie": "Thor",
+                "year": 2011
+            },
+            {
+                "movie": "Avengers: Endgame",
+                "year": 2019
+            }
+        ],
+        "quotes": [
+            "I am Thor, son of Odin!",
+            "I say thee nay!",
+            "Another!"
+        ],
+        "allies": [
+            "Loki",
+            "Valkyrie",
+            "Hulk"
+        ],
+        "enemies": [
+            "Loki",
+            "Hela",
+            "Thanos"
+        ],
+        "affiliation": "Avengers",
+        "firstAppearance": "Thor (2011)",
+        "creator": "Stan Lee, Larry Lieber, Jack Kirby",
+        "aka": [
+            "God of Thunder"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Black Widow",
+        "description": "Natasha Romanoff, also known as Black Widow, is a highly skilled spy and assassin. Trained in the Red Room, she uses her expertise in martial arts and espionage to carry out missions for S.H.I.E.L.D. and the Avengers, all while seeking redemption for her past actions.",
+        "powers": [
+            "Expert martial artist",
+            "Master of disguise",
+            "Weapons proficiency",
+            "Espionage skills"
+        ],
+        "appearances": [
+            {
+                "movie": "Iron Man 2",
+                "year": 2010
+            },
+            {
+                "movie": "Avengers: Endgame",
+                "year": 2019
+            }
+        ],
+        "quotes": [
+            "I'm always picking up after you boys.",
+            "I have nothing to prove to you.",
+            "I'm done running from my past."
+        ],
+        "allies": [
+            "Hawkeye",
+            "Captain America",
+            "Falcon"
+        ],
+        "enemies": [
+            "Taskmaster",
+            "Red Room",
+            "Thanos"
+        ],
+        "affiliation": "Avengers",
+        "firstAppearance": "Iron Man 2 (2010)",
+        "creator": "Stan Lee, Don Rico, Don Heck",
+        "aka": [
+            "Natasha Romanoff",
+            "Natalia Romanova"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Hulk",
+        "description": "Bruce Banner, a brilliant scientist, transforms into the raging green behemoth known as the Hulk whenever he gets angry or overwhelmed with emotions. Possessing immense strength and near-invulnerability, the Hulk battles both inner demons and external threats, using his incredible power for good.",
+        "powers": [
+            "Superhuman strength",
+            "Regenerative healing",
+            "Durability",
+            "Unlimited rage"
+        ],
+        "appearances": [
+            {
+                "movie": "The Incredible Hulk",
+                "year": 2008
+            },
+            {
+                "movie": "Avengers: Endgame",
+                "year": 2019
+            }
+        ],
+        "quotes": [
+            "Hulk smash!",
+            "Puny god.",
+            "I'm always angry."
+        ],
+        "allies": [
+            "Black Widow",
+            "Thor",
+            "Captain America"
+        ],
+        "enemies": [
+            "Abomination",
+            "Thanos",
+            "Thunderbolt Ross"
+        ],
+        "affiliation": "Avengers",
+        "firstAppearance": "The Incredible Hulk (2008)",
+        "creator": "Stan Lee, Jack Kirby",
+        "aka": [
+            "Bruce Banner",
+            "Jade Giant"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Hawkeye",
+        "description": "Clint Barton, also known as Hawkeye, is a highly skilled marksman and master archer. With exceptional accuracy and a wide range of trick arrows, Hawkeye fights alongside the Avengers, using his talents to hit his targets with precision and provide essential support to his team.",
+        "powers": [
+            "Expert marksman",
+            "Master archer",
+            "Exceptional hand-to-hand combat skills",
+            "Trick arrows"
+        ],
+        "appearances": [
+            {
+                "movie": "Thor",
+                "year": 2011
+            },
+            {
+                "movie": "Avengers: Endgame",
+                "year": 2019
+            }
+        ],
+        "quotes": [
+            "The city is flying, we're fighting an army of robots, and I have a bow and arrow. None of this makes sense.",
+            "I see better from a distance.",
+            "Just can't seem to miss."
+        ],
+        "allies": [
+            "Black Widow",
+            "Captain America",
+            "Ant-Man"
+        ],
+        "enemies": [
+            "Ronin",
+            "Taskmaster",
+            "Thanos"
+        ],
+        "affiliation": "Avengers",
+        "firstAppearance": "Thor (2011)",
+        "creator": "Stan Lee, Don Heck",
+        "aka": [
+            "Clint Barton",
+            "Ronin"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Spider-Man",
+        "description": "Peter Parker, a high school student from New York, gains amazing spider-like abilities after being bitten by a genetically-altered spider. With his newfound powers, Spider-Man fights crime and protects the innocent while balancing his personal life and responsibilities.",
+        "powers": [
+            "Agility",
+            "Superhuman strength",
+            "Wall-crawling",
+            "Web-slinging"
+        ],
+        "appearances": [
+            {
+                "movie": "Spider-Man: Homecoming",
+                "year": 2017
+            },
+            {
+                "movie": "Avengers: Endgame",
+                "year": 2019
+            }
+        ],
+        "quotes": [
+            "With great power comes great responsibility.",
+            "I'm your friendly neighborhood Spider-Man!",
+            "When you can do the things that I can, but you don't... and then the bad things happen? They happen because of you."
+        ],
+        "allies": [
+            "Iron Man",
+            "Captain America",
+            "Ned Leeds"
+        ],
+        "enemies": [
+            "Green Goblin",
+            "Vulture",
+            "Mysterio"
+        ],
+        "affiliation": "Avengers",
+        "firstAppearance": "Spider-Man: Homecoming (2017)",
+        "creator": "Stan Lee, Steve Ditko",
+        "aka": [
+            "Peter Parker",
+            "Web-Slinger"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Black Panther",
+        "description": "T'Challa, the king of the technologically advanced African nation of Wakanda, assumes the mantle of the Black Panther. With enhanced strength, agility, and a suit made of Vibranium, Black Panther protects his people and fights against those who seek to exploit Wakanda's resources.",
+        "powers": [
+            "Enhanced strength",
+            "Agility",
+            "Vibranium suit",
+            "Heightened senses"
+        ],
+        "appearances": [
+            {
+                "movie": "Black Panther",
+                "year": 2018
+            },
+            {
+                "movie": "Avengers: Endgame",
+                "year": 2019
+            }
+        ],
+        "quotes": [
+            "Wakanda forever!",
+            "In times of crisis, the wise build bridges while the foolish build barriers.",
+            "The Black Panther has been the protector of Wakanda for generations."
+        ],
+        "allies": [
+            "Shuri",
+            "Okoye",
+            "Captain America"
+        ],
+        "enemies": [
+            "Killmonger",
+            "Ulysses Klaue",
+            "Thanos"
+        ],
+        "affiliation": "Avengers",
+        "firstAppearance": "Black Panther (2018)",
+        "creator": "Stan Lee, Jack Kirby",
+        "aka": [
+            "T'Challa"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Doctor Strange",
+        "description": "Dr. Stephen Strange, a brilliant and arrogant surgeon, loses the use of his hands in a car accident. Desperate to regain his abilities, he embarks on a journey to become the Sorcerer Supreme. With mastery over the mystic arts, Doctor Strange protects the world from magical and interdimensional threats.",
+        "powers": [
+            "Mastery of mystic arts",
+            "Time manipulation",
+            "Dimensional travel",
+            "Eldritch magic"
+        ],
+        "appearances": [
+            {
+                "movie": "Doctor Strange",
+                "year": 2016
+            },
+            {
+                "movie": "Avengers: Endgame",
+                "year": 2019
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Scarlet Witch",
+        "description": "Wanda Maximoff, also known as Scarlet Witch, possesses reality-altering powers derived from the Mind Stone. With her immense psychic abilities, she is a formidable force and plays a crucial role in protecting the world from supernatural threats.",
+        "powers": [
+            "Reality manipulation",
+            "Telekinesis",
+            "Energy projection",
+            "Probability manipulation"
+        ],
+        "appearances": [
+            {
+                "movie": "Avengers: Age of Ultron",
+                "year": 2015
+            },
+            {
+                "movie": "Avengers: Endgame",
+                "year": 2019
+            }
+        ],
+        "quotes": [
+            "No more mutants.",
+            "I can't control their fear, only my own.",
+            "You took everything from me."
+        ],
+        "allies": [
+            "Vision",
+            "Captain America",
+            "Falcon"
+        ],
+        "enemies": [
+            "Ultron",
+            "Thanos",
+            "Agatha Harkness"
+        ],
+        "affiliation": "Avengers",
+        "firstAppearance": "Avengers: Age of Ultron (2015)",
+        "creator": "Stan Lee, Jack Kirby",
+        "aka": [
+            "Wanda Maximoff"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Vision",
+        "description": "Vision is an android created by the combined efforts of Tony Stark and Bruce Banner, infused with the Mind Stone. With his synthetic body and advanced abilities, Vision strives to understand humanity and uses his powers to protect the innocent.",
+        "powers": [
+            "Density manipulation",
+            "Energy beams",
+            "Flight",
+            "Superhuman strength"
+        ],
+        "appearances": [
+            {
+                "movie": "Avengers: Age of Ultron",
+                "year": 2015
+            },
+            {
+                "movie": "Avengers: Endgame",
+                "year": 2019
+            }
+        ],
+        "quotes": [
+            "I am on the side of life.",
+            "A thing isn't beautiful because it lasts.",
+            "Existence is beautiful, but the world is complicated."
+        ],
+        "allies": [
+            "Scarlet Witch",
+            "Iron Man",
+            "Thor"
+        ],
+        "enemies": [
+            "Ultron",
+            "Thanos",
+            "Hayward"
+        ],
+        "affiliation": "Avengers",
+        "firstAppearance": "Avengers: Age of Ultron (2015)",
+        "creator": "Stan Lee, Roy Thomas, John Buscema",
+        "aka": [
+            "The Vision"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Ant-Man",
+        "description": "Scott Lang, a master thief with a heart of gold, becomes the superhero Ant-Man after acquiring a suit that allows him to shrink in scale but increase in strength. Using his size-changing abilities and a team of ants, Ant-Man fights alongside the Avengers to save the world.",
+        "powers": [
+            "Size manipulation",
+            "Superhuman strength (when small)",
+            "Ant communication",
+            "Electrical disruption"
+        ],
+        "appearances": [
+            {
+                "movie": "Ant-Man",
+                "year": 2015
+            },
+            {
+                "movie": "Avengers: Endgame",
+                "year": 2019
+            }
+        ],
+        "quotes": [
+            "I'm Ant-Man. I know, it wasn't my idea.",
+            "One question: Is it too late to change the name?",
+            "We're the Avengers. We can bust arms dealers all the live-long day, but that up there is the endgame. How are you guys planning on beating that?"
+        ],
+        "allies": [
+            "The Wasp",
+            "Hank Pym",
+            "Captain America"
+        ],
+        "enemies": [
+            "Yellowjacket",
+            "Ghost",
+            "Thanos"
+        ],
+        "affiliation": "Avengers",
+        "firstAppearance": "Ant-Man (2015)",
+        "creator": "Stan Lee, Larry Lieber, Jack Kirby",
+        "aka": [
+            "Scott Lang"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Wasp",
+        "description": "Hope van Dyne, also known as the Wasp, is a Marvel superhero who possesses the ability to shrink in size and fly using a special suit equipped with wings. She is a skilled fighter and often partners with Ant-Man.",
+        "powers": [
+            "Size manipulation",
+            "Flight",
+            "Hand-to-hand combat"
+        ],
+        "appearances": [
+            {
+                "movie": "Ant-Man",
+                "year": 2015
+            },
+            {
+                "movie": "Ant-Man and The Wasp",
+                "year": 2018
+            }
+        ],
+        "quotes": [
+            "It's about damn time."
+        ],
+        "allies": [
+            "Ant-Man",
+            "Captain America",
+            "Black Widow"
+        ],
+        "enemies": [
+            "Ghost",
+            "Yellowjacket"
+        ],
+        "affiliation": "Avengers",
+        "firstAppearance": "Tales to Astonish #44 (1963)",
+        "creator": "Stan Lee, Ernie Hart, Jack Kirby",
+        "aka": [
+            "Hope van Dyne"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Captain Marvel",
+        "description": "Carol Danvers, also known as Captain Marvel, is a powerful superhero with enhanced strength, speed, and the ability to fly. She harnesses cosmic energy and is a key member of the Avengers.",
+        "powers": [
+            "Superhuman strength",
+            "Flight",
+            "Energy absorption and projection"
+        ],
+        "appearances": [
+            {
+                "movie": "Captain Marvel",
+                "year": 2019
+            },
+            {
+                "movie": "Avengers: Endgame",
+                "year": 2019
+            }
+        ],
+        "quotes": [
+            "Higher, further, faster, baby."
+        ],
+        "allies": [
+            "Nick Fury",
+            "War Machine",
+            "Black Widow"
+        ],
+        "enemies": [
+            "Yon-Rogg",
+            "Thanos",
+            "Supreme Intelligence"
+        ],
+        "affiliation": "Avengers",
+        "firstAppearance": "Marvel Super-Heroes #13 (1968)",
+        "creator": "Roy Thomas, Gene Colan",
+        "aka": [
+            "Carol Danvers",
+            "Binary",
+            "Ms. Marvel"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Star-Lord",
+        "description": "Peter Quill, also known as Star-Lord, is a charismatic and adventurous spacefaring superhero. He is the leader of the Guardians of the Galaxy and wields powerful alien technology.",
+        "powers": [
+            "Skilled marksman",
+            "Master tactician",
+            "Enhanced strength (with celestial powers)"
+        ],
+        "appearances": [
+            {
+                "movie": "Guardians of the Galaxy",
+                "year": 2014
+            },
+            {
+                "movie": "Avengers: Infinity War",
+                "year": 2018
+            }
+        ],
+        "quotes": [
+            "I'm Star-Lord, man! Legendary outlaw."
+        ],
+        "allies": [
+            "Gamora",
+            "Rocket Raccoon",
+            "Drax the Destroyer"
+        ],
+        "enemies": [
+            "Ronan the Accuser",
+            "Thanos",
+            "Ego the Living Planet"
+        ],
+        "affiliation": "Guardians of the Galaxy",
+        "firstAppearance": "Marvel Preview #4 (1976)",
+        "creator": "Steve Englehart, Steve Gan",
+        "aka": [
+            "Peter Quill"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Gamora",
+        "description": "Gamora is a skilled assassin and member of the Guardians of the Galaxy. She is known as the deadliest woman in the galaxy and has a complex history, including being raised by the villain Thanos.",
+        "powers": [
+            "Superhuman strength",
+            "Enhanced agility",
+            "Expert martial artist"
+        ],
+        "appearances": [
+            {
+                "movie": "Guardians of the Galaxy",
+                "year": 2014
+            },
+            {
+                "movie": "Avengers: Infinity War",
+                "year": 2018
+            }
+        ],
+        "quotes": [
+            "I am going to die surrounded by the biggest idiots in the galaxy."
+        ],
+        "allies": [
+            "Star-Lord",
+            "Drax the Destroyer",
+            "Rocket Raccoon"
+        ],
+        "enemies": [
+            "Thanos",
+            "Nebula",
+            "Ronan the Accuser"
+        ],
+        "affiliation": "Guardians of the Galaxy",
+        "firstAppearance": "Strange Tales #180 (1975)",
+        "creator": "Jim Starlin",
+        "aka": [
+            "The Deadliest Woman in the Galaxy"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Drax the Destroyer",
+        "description": "Drax the Destroyer is a powerful warrior seeking vengeance against Thanos, the Mad Titan. He possesses enhanced strength and durability, making him a formidable member of the Guardians of the Galaxy.",
+        "powers": [
+            "Superhuman strength",
+            "Enhanced durability",
+            "Expert hand-to-hand combatant"
+        ],
+        "appearances": [
+            {
+                "movie": "Guardians of the Galaxy",
+                "year": 2014
+            },
+            {
+                "movie": "Avengers: Infinity War",
+                "year": 2018
+            }
+        ],
+        "quotes": [
+            "Nothing goes over my head! My reflexes are too fast, I would catch it."
+        ],
+        "allies": [
+            "Gamora",
+            "Rocket Raccoon",
+            "Groot"
+        ],
+        "enemies": [
+            "Thanos",
+            "Ronan the Accuser",
+            "Nebula"
+        ],
+        "affiliation": "Guardians of the Galaxy",
+        "firstAppearance": "Iron Man #55 (1973)",
+        "creator": "Jim Starlin",
+        "aka": [
+            "Arthur Douglas",
+            "The Destroyer"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Rocket Raccoon",
+        "description": "Rocket Raccoon is a genetically modified raccoon with exceptional intelligence, combat skills, and proficiency in using a wide array of weapons. He is a member of the Guardians of the Galaxy.",
+        "powers": [
+            "Genius-level intellect",
+            "Expert marksman",
+            "Skilled tactician"
+        ],
+        "appearances": [
+            {
+                "movie": "Guardians of the Galaxy",
+                "year": 2014
+            },
+            {
+                "movie": "Avengers: Endgame",
+                "year": 2019
+            }
+        ],
+        "quotes": [
+            "I'm not a raccoon. I'm a trash panda."
+        ],
+        "allies": [
+            "Star-Lord",
+            "Gamora",
+            "Groot"
+        ],
+        "enemies": [
+            "Thanos",
+            "Ronan the Accuser",
+            "Nebula"
+        ],
+        "affiliation": "Guardians of the Galaxy",
+        "firstAppearance": "Marvel Preview #7 (1976)",
+        "creator": "Bill Mantlo, Keith Giffen",
+        "aka": [
+            "Rocket",
+            "Ranger Rocket"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Groot",
+        "description": "Groot is a humanoid tree-like creature with limited vocabulary. Despite his simple communication skills, he possesses incredible strength and the ability to regenerate his body. He is a loyal member of the Guardians of the Galaxy.",
+        "powers": [
+            "Enhanced strength",
+            "Regeneration",
+            "Fluent in Groot-speak"
+        ],
+        "appearances": [
+            {
+                "movie": "Guardians of the Galaxy",
+                "year": 2014
+            },
+            {
+                "movie": "Avengers: Infinity War",
+                "year": 2018
+            }
+        ],
+        "quotes": [
+            "I am Groot."
+        ],
+        "allies": [
+            "Rocket Raccoon",
+            "Gamora",
+            "Star-Lord"
+        ],
+        "enemies": [
+            "Thanos",
+            "Ronan the Accuser",
+            "Nebula"
+        ],
+        "affiliation": "Guardians of the Galaxy",
+        "firstAppearance": "Tales to Astonish #13 (1960)",
+        "creator": "Stan Lee, Jack Kirby",
+        "aka": [
+            "Flora Colossus"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Nebula",
+        "description": "Nebula is a fierce and relentless assassin. She is a cyborg with enhanced strength, agility, and combat skills. Nebula has a complicated relationship with her adoptive father, Thanos, and plays a significant role in the conflict against him.",
+        "powers": [
+            "Cybernetic enhancements",
+            "Superhuman strength",
+            "Expert martial artist"
+        ],
+        "appearances": [
+            {
+                "movie": "Guardians of the Galaxy",
+                "year": 2014
+            },
+            {
+                "movie": "Avengers: Endgame",
+                "year": 2019
+            }
+        ],
+        "quotes": [
+            "All I ever wanted was to be equal to Thor."
+        ],
+        "allies": [
+            "Gamora",
+            "Guardians of the Galaxy"
+        ],
+        "enemies": [
+            "Thanos",
+            "Guardians of the Galaxy"
+        ],
+        "affiliation": "Guardians of the Galaxy",
+        "firstAppearance": "Avengers #257 (1985)",
+        "creator": "Roger Stern, John Buscema",
+        "aka": [
+            "The Most Dangerous Woman in the Universe"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Thanos",
+        "description": "Thanos is a powerful",
+        "powers": [
+            "Superhuman strength",
+            "Genius-level intellect",
+            "Invulnerability",
+            "Energy manipulation"
+        ],
+        "appearances": [
+            {
+                "movie": "Avengers: Infinity War",
+                "year": 2018
+            },
+            {
+                "movie": "Avengers: Endgame",
+                "year": 2019
+            }
+        ],
+        "quotes": [
+            "I am inevitable.",
+            "I used the stones to destroy the stones."
+        ],
+        "allies": [],
+        "enemies": [
+            "Avengers",
+            "Guardians of the Galaxy"
+        ],
+        "affiliation": "None",
+        "firstAppearance": "Iron Man #55 (1973)",
+        "creator": "Jim Starlin",
+        "aka": [
+            "The Mad Titan"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Loki",
+        "description": "Loki is the god of mischief and the adopted brother of Thor. He possesses magical abilities and is known for his cunning and manipulative nature. Although initially an adversary, Loki has been both an ally and enemy of the Avengers.",
+        "powers": [
+            "Magic manipulation",
+            "Illusions",
+            "Shape-shifting"
+        ],
+        "appearances": [
+            {
+                "movie": "Thor",
+                "year": 2011
+            },
+            {
+                "movie": "Avengers: Infinity War",
+                "year": 2018
+            }
+        ],
+        "quotes": [
+            "I am burdened with glorious purpose.",
+            "I assure you, brother, the sun will shine on us again."
+        ],
+        "allies": [
+            "Thor",
+            "Avengers"
+        ],
+        "enemies": [
+            "Avengers",
+            "Thanos"
+        ],
+        "affiliation": "Asgard",
+        "firstAppearance": "Journey into Mystery #85 (1962)",
+        "creator": "Stan Lee, Larry Lieber, Jack Kirby",
+        "aka": [
+            "God of Mischief"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Winter Soldier",
+        "description": "Bucky Barnes, also known as the Winter Soldier, is a skilled assassin and a former brainwashed operative of HYDRA. With a bionic arm and enhanced combat abilities, he fights alongside Captain America and the Avengers.",
+        "powers": [
+            "Superhuman strength",
+            "Enhanced agility",
+            "Expert marksman"
+        ],
+        "appearances": [
+            {
+                "movie": "Captain America: The Winter Soldier",
+                "year": 2014
+            },
+            {
+                "movie": "Avengers: Endgame",
+                "year": 2019
+            }
+        ],
+        "quotes": [
+            "Who the hell is Bucky?"
+        ],
+        "allies": [
+            "Captain America",
+            "Falcon"
+        ],
+        "enemies": [
+            "HYDRA",
+            "Thanos"
+        ],
+        "affiliation": "Avengers",
+        "firstAppearance": "Captain America #1 (1941)",
+        "creator": "Joe Simon, Jack Kirby",
+        "aka": [
+            "Bucky Barnes"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Falcon",
+        "description": "Sam Wilson, also known as Falcon, is a skilled aerialist",
+        "powers": [
+            "Flight (via winged jetpack)",
+            "Telepathic link with birds",
+            "Expert hand-to-hand combatant"
+        ],
+        "appearances": [
+            {
+                "movie": "Captain America: The Winter Soldier",
+                "year": 2014
+            },
+            {
+                "movie": "Avengers: Endgame",
+                "year": 2019
+            }
+        ],
+        "quotes": [
+            "On your left."
+        ],
+        "allies": [
+            "Captain America",
+            "Winter Soldier"
+        ],
+        "enemies": [
+            "HYDRA",
+            "Thanos"
+        ],
+        "affiliation": "Avengers",
+        "firstAppearance": "Captain America #117 (1969)",
+        "creator": "Stan Lee, Gene Colan",
+        "aka": [
+            "Sam Wilson"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "War Machine",
+        "description": "James Rhodes, also known as War Machine, is a highly skilled pilot and combatant. He operates a heavily armored suit equipped with advanced weaponry and often fights alongside Iron Man and the Avengers.",
+        "powers": [
+            "Advanced weaponry",
+            "Flight (via armored suit)",
+            "Enhanced strength (via armored suit)"
+        ],
+        "appearances": [
+            {
+                "movie": "Iron Man 2",
+                "year": 2010
+            },
+            {
+                "movie": "Avengers: Endgame",
+                "year": 2019
+            }
+        ],
+        "quotes": [
+            "Boom! You looking for this?"
+        ],
+        "allies": [
+            "Iron Man",
+            "Captain America",
+            "Black Widow"
+        ],
+        "enemies": [
+            "Whiplash",
+            "Thanos"
+        ],
+        "affiliation": "Avengers",
+        "firstAppearance": "Iron Man #f18 (1979)",
+        "creator": "David Michelinie, John Byrne",
+        "aka": [
+            "James Rhodes"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Nick Fury",
+        "description": "Nick Fury is a seasoned intelligence operative and the former director of S.H.I.E.L.D. He is known for his strategic mind and resourcefulness, often assembling and leading teams of superheroes to defend the world.",
+        "powers": [
+            "Master spy",
+            "Tactical genius",
+            "Skilled combatant"
+        ],
+        "appearances": [
+            {
+                "movie": "Iron Man",
+                "year": 2008
+            },
+            {
+                "movie": "Avengers: Endgame",
+                "year": 2019
+            }
+        ],
+        "quotes": [
+            "I still believe in heroes."
+        ],
+        "allies": [
+            "Captain America",
+            "Black Widow",
+            "Maria Hill"
+        ],
+        "enemies": [
+            "HYDRA",
+            "Thanos"
+        ],
+        "affiliation": "S.H.I.E.L.D.",
+        "firstAppearance": "Sgt. Fury and his Howling Commandos #1 (1963)",
+        "creator": "Stan Lee, Jack Kirby",
+        "aka": [
+            "Colonel Fury"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Phil Coulson",
+        "description": "Phil Coulson is a dedicated S.H.I.E.L.D. agent known for his loyalty and unwavering commitment to protecting the world from threats. He often serves as a liaison between S.H.I.E.L.D. and the Avengers, providing valuable intelligence and support.",
+        "powers": [
+            "Strategic planning",
+            "Skilled marksman",
+            "Tactical expertise"
+        ],
+        "appearances": [
+            {
+                "movie": "Iron Man",
+                "year": 2008
+            },
+            {
+                "movie": "The Avengers",
+                "year": 2012
+            }
+        ],
+        "quotes": [
+            "It's an agent's duty to lie."
+        ],
+        "allies": [
+            "Nick Fury",
+            "Maria Hill",
+            "Avengers"
+        ],
+        "enemies": [
+            "HYDRA",
+            "Loki"
+        ],
+        "affiliation": "S.H.I.E.L.D.",
+        "firstAppearance": "Iron Man (2008 film)",
+        "creator": "Mark Fergus, Hawk Ostby, Art Marcum, Matt Holloway",
+        "aka": [
+            "Agent Coulson"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Agent Peggy Carter",
+        "description": "Agent Peggy Carter is a skilled intelligence agent who played a crucial role during World War II. She is known for her bravery, resourcefulness, and commitment to justice. Peggy Carter co-founded S.H.I.E.L.D. and became a respected leader within the organization.",
+        "powers": [
+            "Strategic planning",
+            "Expert combatant",
+            "Leadership"
+        ],
+        "appearances": [
+            {
+                "movie": "Captain America: The First Avenger",
+                "year": 2011
+            },
+            {
+                "movie": "Avengers: Endgame",
+                "year": 2019
+            }
+        ],
+        "quotes": [
+            "I know my value."
+        ],
+        "allies": [
+            "Captain America",
+            "Howard Stark",
+            "S.H.I.E.L.D."
+        ],
+        "enemies": [
+            "HYDRA",
+            "Red Skull"
+        ],
+        "affiliation": "S.H.I.E.L.D.",
+        "firstAppearance": "Captain America: The First Avenger (2011 film)",
+        "creator": "Christopher Markus, Stephen McFeely",
+        "aka": [
+            "Agent Carter"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Valkyrie",
+        "description": "Valkyrie, also known as Brunnhilde, is a fierce Asgardian warrior and member of the Valkyrior. She is a skilled combatant and has formidable leadership qualities. Valkyrie played a vital role in the fight against Hela and has since become an ally of Thor and the Avengers.",
+        "powers": [
+            "Superhuman strength",
+            "Expert combatant",
+            "Flight (via winged horse)"
+        ],
+        "appearances": [
+            {
+                "movie": "Thor: Ragnarok",
+                "year": 2017
+            },
+            {
+                "movie": "Avengers: Endgame",
+                "year": 2019
+            }
+        ],
+        "quotes": [
+            "I'm Valkyrie. Of Asgard."
+        ],
+        "allies": [
+            "Thor",
+            "Hulk",
+            "Avengers"
+        ],
+        "enemies": [
+            "Hela",
+            "Thanos"
+        ],
+        "affiliation": "Asgard",
+        "firstAppearance": "The Avengers #83 (1970)",
+        "creator": "Roy Thomas, John Buscema",
+        "aka": [
+            "Brunnhilde"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Okoye",
+        "description": "Okoye is the leader of the Dora Milaje, the elite all-female bodyguards of the king of Wakanda. She is a highly skilled warrior and fiercely loyal to her country and its traditions. Okoye played a pivotal role in defending Wakanda during the Battle of Wakanda and continues to serve as a protector of the nation.",
+        "powers": [
+            "Expert combatant",
+            "Master spear-wielder",
+            "Strategic thinking"
+        ],
+        "appearances": [
+            {
+                "movie": "Black Panther",
+                "year": 2018
+            },
+            {
+                "movie": "Avengers: Infinity War",
+                "year": 2018
+            }
+        ],
+        "quotes": [
+            "We will not abandon Wakanda."
+        ],
+        "allies": [
+            "Black Panther",
+            "Dora Milaje",
+            "Avengers"
+        ],
+        "enemies": [
+            "Killmonger",
+            "Thanos"
+        ],
+        "affiliation": "Dora Milaje",
+        "firstAppearance": "Black Panther Vol. 3 #1 (1998)",
+        "creator": "Christopher Priest, Mark Texeira",
+        "aka": []
+    }
+]

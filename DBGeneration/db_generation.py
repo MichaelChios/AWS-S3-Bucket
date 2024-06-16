@@ -17,26 +17,24 @@ def createDB():
 def insertData():
     with sqlite3.connect('DBGeneration/superheroes.db') as connection:
         cur = connection.cursor()
-        with open("data.json", "r") as file:
+        with open("filtered_data.json", "r") as file:
             data = json.load(file)
             for i in range(len(data)):
                 id = data[i]["id"]
                 name = data[i]["name"]
                 description = data[i]["description"]
-                power = data[i]["powers"]
-                appearance = data[i]["appearances"]
-                quote = data[i]["quotes"]
-                ally = data[i]["allies"]
-                enemy = data[i]["enemies"]
+                power = '\n'.join(data[0]["powers"])
+                quote = '\n'.join(data[i]["quotes"])
                 affiliation = data[i]["affiliation"]
-                first_appearance = data[i]["firstAppearance"]
-                creator = data[i]["creator"]
-                aka = data[i]["aka"]
+                creator = data[i]["creators"]
+                aka = ','.join(data[i]["aka"])
                 cur.execute(
                     f"""INSERT INTO superhero
-                    VALUES (?,?,?,?,?,?,?,?,?,?,?,?)""", (id, name, description, power, appearance,
-                    quote, ally, enemy, affiliation, first_appearance, creator, aka)
+                    VALUES (?,?,?,?,?,?,?,?)""", (id, name, description, power, quote, affiliation, creator, aka)
                 )
         connection.commit()
     print("Data inserted successfully!")
     return
+
+# createDB()
+insertData()

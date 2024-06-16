@@ -1,0 +1,568 @@
+[
+    {
+        "id": 1,
+        "name": "Iron Man",
+        "description": "Tony Stark, a billionaire genius, builds a powered suit of armor and becomes the armored superhero Iron Man. Using his technological expertise and wit, Iron Man fights against evil to protect the world.",
+        "powers": [
+            "Genius intellect",
+            "Powered suit of armor",
+            "Flight",
+            "Energy blasts"
+        ],
+        "quotes": [
+            "I am Iron Man.",
+            "Sometimes you gotta run before you can walk.",
+            "Genius, billionaire, playboy, philanthropist."
+        ],
+        "affiliation": "Avengers",
+        "creators": "Stan Lee, Larry Lieber, Don Heck, Jack Kirby",
+        "aka": [
+            "Tony Stark",
+            "Shellhead"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Captain America",
+        "description": "Steve Rogers, a frail young man, volunteers for a top-secret experiment and becomes Captain America, a super soldier dedicated to upholding justice and defending the ideals of freedom. With his shield and unwavering courage, Captain America fights for what is right.",
+        "powers": [
+            "Peak human strength",
+            "Enhanced agility",
+            "Master tactician",
+            "Indomitable will"
+        ],
+        "quotes": [
+            "I can do this all day.",
+            "I'm just a kid from Brooklyn.",
+            "I'm with you 'til the end of the line."
+        ],
+        "affiliation": "Avengers",
+        "creators": "Joe Simon, Jack Kirby",
+        "aka": [
+            "Cap",
+            "The First Avenger"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Thor",
+        "description": "Thor Odinson, the god of thunder, wields the enchanted hammer Mjolnir and possesses incredible strength and control over lightning. As the prince of Asgard, Thor learns humility and becomes a mighty hero, defending the Nine Realms and battling powerful adversaries.",
+        "powers": [
+            "Superhuman strength",
+            "Control over lightning",
+            "Longevity",
+            "Weather manipulation"
+        ],
+        "quotes": [
+            "I am Thor, son of Odin!",
+            "I say thee nay!",
+            "Another!"
+        ],
+        "affiliation": "Avengers",
+        "creators": "Stan Lee, Larry Lieber, Jack Kirby",
+        "aka": [
+            "God of Thunder"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Black Widow",
+        "description": "Natasha Romanoff, also known as Black Widow, is a highly skilled spy and assassin. Trained in the Red Room, she uses her expertise in martial arts and espionage to carry out missions for S.H.I.E.L.D. and the Avengers, all while seeking redemption for her past actions.",
+        "powers": [
+            "Expert martial artist",
+            "Master of disguise",
+            "Weapons proficiency",
+            "Espionage skills"
+        ],
+        "quotes": [
+            "I'm always picking up after you boys.",
+            "I have nothing to prove to you.",
+            "I'm done running from my past."
+        ],
+        "affiliation": "Avengers",
+        "creators": "Stan Lee, Don Rico, Don Heck",
+        "aka": [
+            "Natasha Romanoff",
+            "Natalia Romanova"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Hulk",
+        "description": "Bruce Banner, a brilliant scientist, transforms into the raging green behemoth known as the Hulk whenever he gets angry or overwhelmed with emotions. Possessing immense strength and near-invulnerability, the Hulk battles both inner demons and external threats, using his incredible power for good.",
+        "powers": [
+            "Superhuman strength",
+            "Regenerative healing",
+            "Durability",
+            "Unlimited rage"
+        ],
+        "quotes": [
+            "Hulk smash!",
+            "Puny god.",
+            "I'm always angry."
+        ],
+        "affiliation": "Avengers",
+        "creators": "Stan Lee, Jack Kirby",
+        "aka": [
+            "Bruce Banner",
+            "Jade Giant"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Hawkeye",
+        "description": "Clint Barton, also known as Hawkeye, is a highly skilled marksman and master archer. With exceptional accuracy and a wide range of trick arrows, Hawkeye fights alongside the Avengers, using his talents to hit his targets with precision and provide essential support to his team.",
+        "powers": [
+            "Expert marksman",
+            "Master archer",
+            "Exceptional hand-to-hand combat skills",
+            "Trick arrows"
+        ],
+        "quotes": [
+            "The city is flying, we're fighting an army of robots, and I have a bow and arrow. None of this makes sense.",
+            "I see better from a distance.",
+            "Just can't seem to miss."
+        ],
+        "affiliation": "Avengers",
+        "creators": "Stan Lee, Don Heck",
+        "aka": [
+            "Clint Barton",
+            "Ronin"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Spider-Man",
+        "description": "Peter Parker, a high school student from New York, gains amazing spider-like abilities after being bitten by a genetically-altered spider. With his newfound powers, Spider-Man fights crime and protects the innocent while balancing his personal life and responsibilities.",
+        "powers": [
+            "Agility",
+            "Superhuman strength",
+            "Wall-crawling",
+            "Web-slinging"
+        ],
+        "quotes": [
+            "With great power comes great responsibility.",
+            "I'm your friendly neighborhood Spider-Man!",
+            "When you can do the things that I can, but you don't... and then the bad things happen? They happen because of you."
+        ],
+        "affiliation": "Avengers",
+        "creators": "Stan Lee, Steve Ditko",
+        "aka": [
+            "Peter Parker",
+            "Web-Slinger"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Black Panther",
+        "description": "T'Challa, the king of the technologically advanced African nation of Wakanda, assumes the mantle of the Black Panther. With enhanced strength, agility, and a suit made of Vibranium, Black Panther protects his people and fights against those who seek to exploit Wakanda's resources.",
+        "powers": [
+            "Enhanced strength",
+            "Agility",
+            "Vibranium suit",
+            "Heightened senses"
+        ],
+        "quotes": [
+            "Wakanda forever!",
+            "In times of crisis, the wise build bridges while the foolish build barriers.",
+            "The Black Panther has been the protector of Wakanda for generations."
+        ],
+        "affiliation": "Avengers",
+        "creators": "Stan Lee, Jack Kirby",
+        "aka": [
+            "T'Challa"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Scarlet Witch",
+        "description": "Wanda Maximoff, also known as Scarlet Witch, possesses reality-altering powers derived from the Mind Stone. With her immense psychic abilities, she is a formidable force and plays a crucial role in protecting the world from supernatural threats.",
+        "powers": [
+            "Reality manipulation",
+            "Telekinesis",
+            "Energy projection",
+            "Probability manipulation"
+        ],
+        "quotes": [
+            "No more mutants.",
+            "I can't control their fear, only my own.",
+            "You took everything from me."
+        ],
+        "affiliation": "Avengers",
+        "creators": "Stan Lee, Jack Kirby",
+        "aka": [
+            "Wanda Maximoff"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Vision",
+        "description": "Vision is an android created by the combined efforts of Tony Stark and Bruce Banner, infused with the Mind Stone. With his synthetic body and advanced abilities, Vision strives to understand humanity and uses his powers to protect the innocent.",
+        "powers": [
+            "Density manipulation",
+            "Energy beams",
+            "Flight",
+            "Superhuman strength"
+        ],
+        "quotes": [
+            "I am on the side of life.",
+            "A thing isn't beautiful because it lasts.",
+            "Existence is beautiful, but the world is complicated."
+        ],
+        "affiliation": "Avengers",
+        "creators": "Stan Lee, Roy Thomas, John Buscema",
+        "aka": [
+            "The Vision"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Ant-Man",
+        "description": "Scott Lang, a master thief with a heart of gold, becomes the superhero Ant-Man after acquiring a suit that allows him to shrink in scale but increase in strength. Using his size-changing abilities and a team of ants, Ant-Man fights alongside the Avengers to save the world.",
+        "powers": [
+            "Size manipulation",
+            "Superhuman strength (when small)",
+            "Ant communication",
+            "Electrical disruption"
+        ],
+        "quotes": [
+            "I'm Ant-Man. I know, it wasn't my idea.",
+            "One question: Is it too late to change the name?",
+            "We're the Avengers. We can bust arms dealers all the live-long day, but that up there is the endgame. How are you guys planning on beating that?"
+        ],
+        "affiliation": "Avengers",
+        "creators": "Stan Lee, Larry Lieber, Jack Kirby",
+        "aka": [
+            "Scott Lang"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Wasp",
+        "description": "Hope van Dyne, also known as the Wasp, is a Marvel superhero who possesses the ability to shrink in size and fly using a special suit equipped with wings. She is a skilled fighter and often partners with Ant-Man.",
+        "powers": [
+            "Size manipulation",
+            "Flight",
+            "Hand-to-hand combat"
+        ],
+        "quotes": [
+            "It's about damn time."
+        ],
+        "affiliation": "Avengers",
+        "creators": "Stan Lee, Ernie Hart, Jack Kirby",
+        "aka": [
+            "Hope van Dyne"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Captain Marvel",
+        "description": "Carol Danvers, also known as Captain Marvel, is a powerful superhero with enhanced strength, speed, and the ability to fly. She harnesses cosmic energy and is a key member of the Avengers.",
+        "powers": [
+            "Superhuman strength",
+            "Flight",
+            "Energy absorption and projection"
+        ],
+        "quotes": [
+            "Higher, further, faster, baby."
+        ],
+        "affiliation": "Avengers",
+        "creators": "Roy Thomas, Gene Colan",
+        "aka": [
+            "Carol Danvers",
+            "Binary",
+            "Ms. Marvel"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Star-Lord",
+        "description": "Peter Quill, also known as Star-Lord, is a charismatic and adventurous spacefaring superhero. He is the leader of the Guardians of the Galaxy and wields powerful alien technology.",
+        "powers": [
+            "Skilled marksman",
+            "Master tactician",
+            "Enhanced strength (with celestial powers)"
+        ],
+        "quotes": [
+            "I'm Star-Lord, man! Legendary outlaw."
+        ],
+        "affiliation": "Guardians of the Galaxy",
+        "creators": "Steve Englehart, Steve Gan",
+        "aka": [
+            "Peter Quill"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Gamora",
+        "description": "Gamora is a skilled assassin and member of the Guardians of the Galaxy. She is known as the deadliest woman in the galaxy and has a complex history, including being raised by the villain Thanos.",
+        "powers": [
+            "Superhuman strength",
+            "Enhanced agility",
+            "Expert martial artist"
+        ],
+        "quotes": [
+            "I am going to die surrounded by the biggest idiots in the galaxy."
+        ],
+        "affiliation": "Guardians of the Galaxy",
+        "creators": "Jim Starlin",
+        "aka": [
+            "The Deadliest Woman in the Galaxy"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Drax the Destroyer",
+        "description": "Drax the Destroyer is a powerful warrior seeking vengeance against Thanos, the Mad Titan. He possesses enhanced strength and durability, making him a formidable member of the Guardians of the Galaxy.",
+        "powers": [
+            "Superhuman strength",
+            "Enhanced durability",
+            "Expert hand-to-hand combatant"
+        ],
+        "quotes": [
+            "Nothing goes over my head! My reflexes are too fast, I would catch it."
+        ],
+        "affiliation": "Guardians of the Galaxy",
+        "creators": "Jim Starlin",
+        "aka": [
+            "Arthur Douglas",
+            "The Destroyer"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Rocket Raccoon",
+        "description": "Rocket Raccoon is a genetically modified raccoon with exceptional intelligence, combat skills, and proficiency in using a wide array of weapons. He is a member of the Guardians of the Galaxy.",
+        "powers": [
+            "Genius-level intellect",
+            "Expert marksman",
+            "Skilled tactician"
+        ],
+        "quotes": [
+            "I'm not a raccoon. I'm a trash panda."
+        ],
+        "affiliation": "Guardians of the Galaxy",
+        "creators": "Bill Mantlo, Keith Giffen",
+        "aka": [
+            "Rocket",
+            "Ranger Rocket"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Groot",
+        "description": "Groot is a humanoid tree-like creature with limited vocabulary. Despite his simple communication skills, he possesses incredible strength and the ability to regenerate his body. He is a loyal member of the Guardians of the Galaxy.",
+        "powers": [
+            "Enhanced strength",
+            "Regeneration",
+            "Fluent in Groot-speak"
+        ],
+        "quotes": [
+            "I am Groot."
+        ],
+        "affiliation": "Guardians of the Galaxy",
+        "creators": "Stan Lee, Jack Kirby",
+        "aka": [
+            "Flora Colossus"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Nebula",
+        "description": "Nebula is a fierce and relentless assassin. She is a cyborg with enhanced strength, agility, and combat skills. Nebula has a complicated relationship with her adoptive father, Thanos, and plays a significant role in the conflict against him.",
+        "powers": [
+            "Cybernetic enhancements",
+            "Superhuman strength",
+            "Expert martial artist"
+        ],
+        "quotes": [
+            "All I ever wanted was to be equal to Thor."
+        ],
+        "affiliation": "Guardians of the Galaxy",
+        "creators": "Roger Stern, John Buscema",
+        "aka": [
+            "The Most Dangerous Woman in the Universe"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Thanos",
+        "description": "Thanos is a powerful",
+        "powers": [
+            "Superhuman strength",
+            "Genius-level intellect",
+            "Invulnerability",
+            "Energy manipulation"
+        ],
+        "quotes": [
+            "I am inevitable.",
+            "I used the stones to destroy the stones."
+        ],
+        "affiliation": "None",
+        "creators": "Jim Starlin",
+        "aka": [
+            "The Mad Titan"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Loki",
+        "description": "Loki is the god of mischief and the adopted brother of Thor. He possesses magical abilities and is known for his cunning and manipulative nature. Although initially an adversary, Loki has been both an ally and enemy of the Avengers.",
+        "powers": [
+            "Magic manipulation",
+            "Illusions",
+            "Shape-shifting"
+        ],
+        "quotes": [
+            "I am burdened with glorious purpose.",
+            "I assure you, brother, the sun will shine on us again."
+        ],
+        "affiliation": "Asgard",
+        "creators": "Stan Lee, Larry Lieber, Jack Kirby",
+        "aka": [
+            "God of Mischief"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Winter Soldier",
+        "description": "Bucky Barnes, also known as the Winter Soldier, is a skilled assassin and a former brainwashed operative of HYDRA. With a bionic arm and enhanced combat abilities, he fights alongside Captain America and the Avengers.",
+        "powers": [
+            "Superhuman strength",
+            "Enhanced agility",
+            "Expert marksman"
+        ],
+        "quotes": [
+            "Who the hell is Bucky?"
+        ],
+        "affiliation": "Avengers",
+        "creators": "Joe Simon, Jack Kirby",
+        "aka": [
+            "Bucky Barnes"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Falcon",
+        "description": "Sam Wilson, also known as Falcon, is a skilled aerialist",
+        "powers": [
+            "Flight (via winged jetpack)",
+            "Telepathic link with birds",
+            "Expert hand-to-hand combatant"
+        ],
+        "quotes": [
+            "On your left."
+        ],
+        "affiliation": "Avengers",
+        "creators": "Stan Lee, Gene Colan",
+        "aka": [
+            "Sam Wilson"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "War Machine",
+        "description": "James Rhodes, also known as War Machine, is a highly skilled pilot and combatant. He operates a heavily armored suit equipped with advanced weaponry and often fights alongside Iron Man and the Avengers.",
+        "powers": [
+            "Advanced weaponry",
+            "Flight (via armored suit)",
+            "Enhanced strength (via armored suit)"
+        ],
+        "quotes": [
+            "Boom! You looking for this?"
+        ],
+        "affiliation": "Avengers",
+        "creators": "David Michelinie, John Byrne",
+        "aka": [
+            "James Rhodes"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Nick Fury",
+        "description": "Nick Fury is a seasoned intelligence operative and the former director of S.H.I.E.L.D. He is known for his strategic mind and resourcefulness, often assembling and leading teams of superheroes to defend the world.",
+        "powers": [
+            "Master spy",
+            "Tactical genius",
+            "Skilled combatant"
+        ],
+        "quotes": [
+            "I still believe in heroes."
+        ],
+        "affiliation": "S.H.I.E.L.D.",
+        "creators": "Stan Lee, Jack Kirby",
+        "aka": [
+            "Colonel Fury"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Phil Coulson",
+        "description": "Phil Coulson is a dedicated S.H.I.E.L.D. agent known for his loyalty and unwavering commitment to protecting the world from threats. He often serves as a liaison between S.H.I.E.L.D. and the Avengers, providing valuable intelligence and support.",
+        "powers": [
+            "Strategic planning",
+            "Skilled marksman",
+            "Tactical expertise"
+        ],
+        "quotes": [
+            "It's an agent's duty to lie."
+        ],
+        "affiliation": "S.H.I.E.L.D.",
+        "creators": "Mark Fergus, Hawk Ostby, Art Marcum, Matt Holloway",
+        "aka": [
+            "Agent Coulson"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Agent Peggy Carter",
+        "description": "Agent Peggy Carter is a skilled intelligence agent who played a crucial role during World War II. She is known for her bravery, resourcefulness, and commitment to justice. Peggy Carter co-founded S.H.I.E.L.D. and became a respected leader within the organization.",
+        "powers": [
+            "Strategic planning",
+            "Expert combatant",
+            "Leadership"
+        ],
+        "quotes": [
+            "I know my value."
+        ],
+        "affiliation": "S.H.I.E.L.D.",
+        "creators": "Christopher Markus, Stephen McFeely",
+        "aka": [
+            "Agent Carter"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Valkyrie",
+        "description": "Valkyrie, also known as Brunnhilde, is a fierce Asgardian warrior and member of the Valkyrior. She is a skilled combatant and has formidable leadership qualities. Valkyrie played a vital role in the fight against Hela and has since become an ally of Thor and the Avengers.",
+        "powers": [
+            "Superhuman strength",
+            "Expert combatant",
+            "Flight (via winged horse)"
+        ],
+        "quotes": [
+            "I'm Valkyrie. Of Asgard."
+        ],
+        "affiliation": "Asgard",
+        "creators": "Roy Thomas, John Buscema",
+        "aka": [
+            "Brunnhilde"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Okoye",
+        "description": "Okoye is the leader of the Dora Milaje, the elite all-female bodyguards of the king of Wakanda. She is a highly skilled warrior and fiercely loyal to her country and its traditions. Okoye played a pivotal role in defending Wakanda during the Battle of Wakanda and continues to serve as a protector of the nation.",
+        "powers": [
+            "Expert combatant",
+            "Master spear-wielder",
+            "Strategic thinking"
+        ],
+        "quotes": [
+            "We will not abandon Wakanda."
+        ],
+        "affiliation": "Dora Milaje",
+        "creators": "Christopher Priest, Mark Texeira",
+        "aka": []
+    }
+]

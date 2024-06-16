@@ -13,10 +13,10 @@ data = response_API.text
 
 json_data = json.loads(data)
 
-# with open('data.json', 'w') as f:
-#     json.dump(json_data, f, indent=4)
+with open('data.json', 'w') as f:
+    json.dump(json_data, f, indent=4) # save the data in a json file
     
-# print the keys of the json data
+# Print the keys so we know the columns we need to create in the database
 with open('data.json', 'r') as f:
     data = json.load(f)
     for key, value in data[0].items():

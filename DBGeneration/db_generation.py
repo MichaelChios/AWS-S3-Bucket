@@ -23,8 +23,8 @@ def insertData():
                 id = data[i]["id"]
                 name = data[i]["name"]
                 description = data[i]["description"]
-                power = '\n'.join(data[0]["powers"])
-                quote = '\n'.join(data[i]["quotes"])
+                power = ','.join(data[i]["powers"])
+                quote = ','.join(data[i]["quotes"])
                 affiliation = data[i]["affiliation"]
                 creator = data[i]["creators"]
                 aka = ','.join(data[i]["aka"])
@@ -36,5 +36,13 @@ def insertData():
     print("Data inserted successfully!")
     return
 
+def deleteData():
+    with sqlite3.connect('DBGeneration/superheroes.db') as connection:
+        cur = connection.cursor()
+        cur.execute("DELETE FROM superhero")
+        connection.commit()
+    print("Data deleted successfully!")
+
 # createDB()
-insertData()
+# insertData()
+# deleteData()
